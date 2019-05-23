@@ -1,1 +1,1 @@
-jose gerardo rodriguez velasco, aplicacion android de nuermos amigos
+jose gerardo rodriguez velasco, aplicacion android de numeros amigos
